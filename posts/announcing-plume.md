@@ -2,8 +2,6 @@
 title: Announcing Plume
 published: 2026-09-20 09:30:42
 author: Chris Kankiewicz
-image:
-  url: /files/announcing-plume/plume-screenshot.png
 tags: [Code, Plume, PHP, Open Source]
 ---
 
@@ -11,7 +9,10 @@ tags: [Code, Plume, PHP, Open Source]
 Today I'm happy to announce the first release candidate of [Plume](https://plume.pub),
 a self-hosted, Markdown-powered, flat-file publishing platform. You can find the source on
 [GitHub](https://github.com/PHLAK/Plume) and documentation at [docs.plume.pub](https://docs.plume.pub).
+
+![Plume Screenshot](/files/announcing-plume/plume-screenshot.png)
 <!-- /excerpt -->
+
 
 # What it does
 

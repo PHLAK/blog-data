@@ -10,7 +10,7 @@ Today I'm happy to announce the first release candidate of [Plume](https://plume
 a self-hosted, Markdown-powered, flat-file publishing platform. You can find the source on
 [GitHub](https://github.com/PHLAK/Plume) and documentation at [docs.plume.pub](https://docs.plume.pub).
 
-![Plume Screenshot](/files/announcing-plume/plume.png)
+![Plume Screenshot](/files/announcing-plume/screenshot.png)
 <!-- /excerpt -->
 
 
